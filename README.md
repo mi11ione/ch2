@@ -1,0 +1,3 @@
+Sheet567
+
+This SwiftUI project demonstrates a map interface with a custom bottom sheet implementation. The app displays a MapKit map view with a bottom sheet that contains a tab bar interfac that replicates the FindMy app custom tabbar, while maintaining TabView functionality. The sheet supports multiple detent heights and includes custom tab navigation with five tabs: Swag, Flex, Cool, Heh, and 9mice. The project includes iOS 26 compatibility features for the tab bar implementation, using a custom TabHelper that manages the tab bar controller appearance and behavior. Additionally, the project includes a FullScreenSheet component that demonstrates how to present a full screen sheet using a private (apple music exclusive) uikit key
